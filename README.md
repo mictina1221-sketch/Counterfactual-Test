@@ -13,3 +13,8 @@ The dataset used in this study is not publicly available.
 Users who have access to the data should place the Stata data file in the data/ directory and ensure that file paths in the .do files are correctly specified.
 
 ## Authors
+
+
+
+## Complete Virtual Text Link 
+https://drive.google.com/drive/folders/1ujUHgZ_FKbKHrd8_4daI3sewREx26xhz?usp=drive_link
